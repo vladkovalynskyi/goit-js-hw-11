@@ -34,8 +34,8 @@ input {
 input:focus {
     font-size: 30px;
     outline: none;
-    border-color: #502ee5;
-    box-shadow: 0 15px 20px rgba(25, 8, 175, 0.4);
+    border-color: #e52e7a;
+    box-shadow: 0 20px 25px rgba(136, 8, 175, 0.4);
 }
 
 .gallery {
